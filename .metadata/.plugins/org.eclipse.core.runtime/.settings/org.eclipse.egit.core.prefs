@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=/Users/joseguzman/Desktop/git-tutorial/repository/.git\:
-GitRepositoriesView.GitDirectories.relative=/Users/joseguzman/Desktop/git-tutorial/repository/.git\:
+GitRepositoriesView.GitDirectories=/Users/joseguzman/Desktop/git-tutorial/repository/.git\:/Users/joseguzman/eclipse-workspace/.git\:
+GitRepositoriesView.GitDirectories.relative=/Users/joseguzman/Desktop/git-tutorial/repository/.git\:.git\:
 core_defaultRepositoryDir=/Users/joseguzman/eclipse-workspace
 core_git_servers=
 core_preferredMergeStrategy=jgit-default-mergeStrategy
